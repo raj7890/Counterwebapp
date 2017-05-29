@@ -1,6 +1,12 @@
 sample
 rajukumar Macha
 demo
+<<<<<<< HEAD
 USA
 AUS
 IND
+=======
+mock
+marks
+class
+>>>>>>> branch 'master' of https://github.com/raj7890/Counterwebapp.git
